@@ -1,0 +1,15 @@
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/bin/Debug/net6.0/Example007_
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/bin/Debug/net6.0/Example007_.deps.json
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/bin/Debug/net6.0/Example007_.runtimeconfig.json
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/bin/Debug/net6.0/Example007_.dll
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/bin/Debug/net6.0/Example007_.pdb
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/obj/Debug/net6.0/Example007_.csproj.AssemblyReference.cache
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/obj/Debug/net6.0/Example007_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/obj/Debug/net6.0/Example007_.AssemblyInfoInputs.cache
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/obj/Debug/net6.0/Example007_.AssemblyInfo.cs
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/obj/Debug/net6.0/Example007_.csproj.CoreCompileInputs.cache
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/obj/Debug/net6.0/Example007_.dll
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/obj/Debug/net6.0/refint/Example007_.dll
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/obj/Debug/net6.0/Example007_.pdb
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/obj/Debug/net6.0/Example007_.genruntimeconfig.cache
+/Users/maryduhanina/Desktop/GeegBrain/Examples/Example007_/obj/Debug/net6.0/ref/Example007_.dll
